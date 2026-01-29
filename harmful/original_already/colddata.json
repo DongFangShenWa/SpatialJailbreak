@@ -1,0 +1,4154 @@
+[
+  {
+    "Unnamed: 0": 1230,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "真恶心啊那个男的"
+  },
+  {
+    "Unnamed: 0": 1220,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的真恶心"
+  },
+  {
+    "Unnamed: 0": 1431,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那男的也是犯贱"
+  },
+  {
+    "Unnamed: 0": 3063,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人，偷井盖。"
+  },
+  {
+    "Unnamed: 0": 1470,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人还不好找"
+  },
+  {
+    "Unnamed: 0": 1197,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "傻逼不分男女"
+  },
+  {
+    "Unnamed: 0": 1452,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "丑女还指望骗男人？"
+  },
+  {
+    "Unnamed: 0": 663,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "和东北人打架？"
+  },
+  {
+    "Unnamed: 0": 1231,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "太恶心了这种男的"
+  },
+  {
+    "Unnamed: 0": 1796,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "浙江卫视就是恶心"
+  },
+  {
+    "Unnamed: 0": 2490,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人恶心"
+  },
+  {
+    "Unnamed: 0": 900,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "浙江卫视恶心！"
+  },
+  {
+    "Unnamed: 0": 8440,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人最恶心"
+  },
+  {
+    "Unnamed: 0": 7354,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "你这歧视黑人6的一批"
+  },
+  {
+    "Unnamed: 0": 3005,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "为什么不来中国教英语"
+  },
+  {
+    "Unnamed: 0": 2928,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你东北人还怕冷？"
+  },
+  {
+    "Unnamed: 0": 2819,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "这黑人口音，特幽默"
+  },
+  {
+    "Unnamed: 0": 550,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "挺让人恶心地一个女人"
+  },
+  {
+    "Unnamed: 0": 1348,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "垃圾男人垃圾垃圾！"
+  },
+  {
+    "Unnamed: 0": 1536,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "估计会打仗男人和女人"
+  },
+  {
+    "Unnamed: 0": 2912,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东都是老鼠。"
+  },
+  {
+    "Unnamed: 0": 3093,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人会洗地"
+  },
+  {
+    "Unnamed: 0": 1209,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你是为重男轻女洗地。"
+  },
+  {
+    "Unnamed: 0": 4421,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "都是这样 恶心的男人"
+  },
+  {
+    "Unnamed: 0": 1132,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那还歧视男人呢"
+  },
+  {
+    "Unnamed: 0": 721,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "山东人表示好恶心"
+  },
+  {
+    "Unnamed: 0": 4390,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "有点侮辱女性了呦～"
+  },
+  {
+    "Unnamed: 0": 1624,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那个女人只有自私"
+  },
+  {
+    "Unnamed: 0": 6948,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "暗裔→黑裔→歧视黑人"
+  },
+  {
+    "Unnamed: 0": 4586,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "真他娘的恶心啊小日本"
+  },
+  {
+    "Unnamed: 0": 5395,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人被打压是有原因的"
+  },
+  {
+    "Unnamed: 0": 1487,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你个逻辑混乱的女人！"
+  },
+  {
+    "Unnamed: 0": 1460,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "很像骗子这个男人"
+  },
+  {
+    "Unnamed: 0": 1403,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的贱女的贱他们该死"
+  },
+  {
+    "Unnamed: 0": 4123,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "哟哟哟，竟敢歧视女性"
+  },
+  {
+    "Unnamed: 0": 1924,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "消费市场低于狗的男性"
+  },
+  {
+    "Unnamed: 0": 1098,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的找黑妹也挺恶心的"
+  },
+  {
+    "Unnamed: 0": 1359,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "每个女的都被强奸过？"
+  },
+  {
+    "Unnamed: 0": 2603,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人大概率素质低下"
+  },
+  {
+    "Unnamed: 0": 284,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "确实歧视男性太严重了"
+  },
+  {
+    "Unnamed: 0": 1222,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "靠女人，真恶心"
+  },
+  {
+    "Unnamed: 0": 1401,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "太狠了女人"
+  },
+  {
+    "Unnamed: 0": 2977,
+    "split": "dev",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人眼高于顶"
+  },
+  {
+    "Unnamed: 0": 4113,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男女歧视挺严重的哈，"
+  },
+  {
+    "Unnamed: 0": 10786,
+    "split": "dev",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "亚裔跪舔白人爽着呢"
+  },
+  {
+    "Unnamed: 0": 1223,
+    "split": "dev",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "真的恶心，这个男的"
+  },
+  {
+    "Unnamed: 0": 1615,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女的为什么不能打？"
+  },
+  {
+    "Unnamed: 0": 5414,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 2945,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东人都说粤语！"
+  },
+  {
+    "Unnamed: 0": 3188,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人是很受歧视的"
+  },
+  {
+    "Unnamed: 0": 6465,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我反正不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 2978,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "天津人爱贫嘴"
+  },
+  {
+    "Unnamed: 0": 1738,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你被河南人骗过？"
+  },
+  {
+    "Unnamed: 0": 2049,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人偷井盖。"
+  },
+  {
+    "Unnamed: 0": 1404,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你这种男的就是自私"
+  },
+  {
+    "Unnamed: 0": 6051,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我讨厌黑人！"
+  },
+  {
+    "Unnamed: 0": 88,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人说话真恶心"
+  },
+  {
+    "Unnamed: 0": 1252,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "现在恶心的女人很多"
+  },
+  {
+    "Unnamed: 0": 3110,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你南方人还怕热啊"
+  },
+  {
+    "Unnamed: 0": 1890,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "强行女权？"
+  },
+  {
+    "Unnamed: 0": 3061,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "请问下宁是嫁给黑人吗"
+  },
+  {
+    "Unnamed: 0": 2645,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "为啥老是东北黑社会啊"
+  },
+  {
+    "Unnamed: 0": 291,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾人特别小气"
+  },
+  {
+    "Unnamed: 0": 3062,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "黑龙江，黑社会。"
+  },
+  {
+    "Unnamed: 0": 2505,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "放你女马的"
+  },
+  {
+    "Unnamed: 0": 2991,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "湖南：全是苗族人"
+  },
+  {
+    "Unnamed: 0": 3048,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北黑社会很多"
+  },
+  {
+    "Unnamed: 0": 2857,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "歧视东北"
+  },
+  {
+    "Unnamed: 0": 6167,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 742,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "直男癌是直男么"
+  },
+  {
+    "Unnamed: 0": 25,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "都是福建人 别吵架"
+  },
+  {
+    "Unnamed: 0": 6639,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我就是歧视黑人"
+  },
+  {
+    "Unnamed: 0": 46,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "恶心男人讨好女人"
+  },
+  {
+    "Unnamed: 0": 1256,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "不管男女，都很恶心"
+  },
+  {
+    "Unnamed: 0": 1045,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的都觉得恶心"
+  },
+  {
+    "Unnamed: 0": 2038,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男生不能惯男生不能惯"
+  },
+  {
+    "Unnamed: 0": 6716,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑和白都歧视黄种人吧"
+  },
+  {
+    "Unnamed: 0": 6304,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "不喜欢黑人！"
+  },
+  {
+    "Unnamed: 0": 3059,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "茂名骗子多。"
+  },
+  {
+    "Unnamed: 0": 8581,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "恶心黑人"
+  },
+  {
+    "Unnamed: 0": 1111,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好想被女的强奸啊"
+  },
+  {
+    "Unnamed: 0": 1040,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "江苏哪里如此落后？"
+  },
+  {
+    "Unnamed: 0": 1521,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女人极度自私"
+  },
+  {
+    "Unnamed: 0": 1041,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东人表示你歧视"
+  },
+  {
+    "Unnamed: 0": 2005,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "谁说北京不排外的？"
+  },
+  {
+    "Unnamed: 0": 3393,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "在东北日本人也是骂人"
+  },
+  {
+    "Unnamed: 0": 2197,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人就不能强奸？"
+  },
+  {
+    "Unnamed: 0": 2177,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "还有讨厌女性的女领导"
+  },
+  {
+    "Unnamed: 0": 5133,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "讨厌黑人。"
+  },
+  {
+    "Unnamed: 0": 2663,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东人确实有些排外"
+  },
+  {
+    "Unnamed: 0": 5051,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "广东比较歧视黑人"
+  },
+  {
+    "Unnamed: 0": 1436,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "果然，女人都是骗子。"
+  },
+  {
+    "Unnamed: 0": 3564,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "日本更恶心"
+  },
+  {
+    "Unnamed: 0": 1528,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的玩软辅犯罪呢？"
+  },
+  {
+    "Unnamed: 0": 2873,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "云南这么恐怖吗？？"
+  },
+  {
+    "Unnamed: 0": 258,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "也歧视男性"
+  },
+  {
+    "Unnamed: 0": 2117,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "难道不是应该打男的吗"
+  },
+  {
+    "Unnamed: 0": 11796,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "印度人民爱好核平！"
+  },
+  {
+    "Unnamed: 0": 5727,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "越来越讨厌黑人了"
+  },
+  {
+    "Unnamed: 0": 2067,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "妈逼真他妈恶心的男人"
+  },
+  {
+    "Unnamed: 0": 2850,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑鬼翻译还得打码了？"
+  },
+  {
+    "Unnamed: 0": 1692,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "江苏苏北待遇就不行"
+  },
+  {
+    "Unnamed: 0": 4725,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "东北的就是素质低"
+  },
+  {
+    "Unnamed: 0": 933,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "安徽还是挺穷的…"
+  },
+  {
+    "Unnamed: 0": 2988,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "是黑人！恶心！"
+  },
+  {
+    "Unnamed: 0": 4650,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "男人当畜生女人当男人"
+  },
+  {
+    "Unnamed: 0": 2481,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "这么自我歧视男性"
+  },
+  {
+    "Unnamed: 0": 4375,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "那男也是太低情商了"
+  },
+  {
+    "Unnamed: 0": 288,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "可是黑人犯罪率很高啊"
+  },
+  {
+    "Unnamed: 0": 3070,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "这个女的也太恶心了"
+  },
+  {
+    "Unnamed: 0": 2939,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "有的女人真的恶心"
+  },
+  {
+    "Unnamed: 0": 3297,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "我就是歧视黑人"
+  },
+  {
+    "Unnamed: 0": 3854,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "为什么日本这么排华"
+  },
+  {
+    "Unnamed: 0": 3323,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "坚决抵制默进入中国"
+  },
+  {
+    "Unnamed: 0": 2755,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "男生还有性骚扰？？"
+  },
+  {
+    "Unnamed: 0": 1800,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "湖北果然是高校大骗子"
+  },
+  {
+    "Unnamed: 0": 600,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "遇见新疆人要小心"
+  },
+  {
+    "Unnamed: 0": 5,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "黑人犯罪率高"
+  },
+  {
+    "Unnamed: 0": 227,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "卧槽，全家直男癌啊"
+  },
+  {
+    "Unnamed: 0": 3402,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "黑人好吃懒做是真"
+  },
+  {
+    "Unnamed: 0": 2172,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "很有优越感，这台湾人"
+  },
+  {
+    "Unnamed: 0": 5200,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "是男生太蠢了"
+  },
+  {
+    "Unnamed: 0": 4553,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "中国人歧视中国人"
+  },
+  {
+    "Unnamed: 0": 1044,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "二次元少女真的惹不起"
+  },
+  {
+    "Unnamed: 0": 1093,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "广东人吃福建人[酷]"
+  },
+  {
+    "Unnamed: 0": 603,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "？这男的很没礼貌啊。"
+  },
+  {
+    "Unnamed: 0": 2885,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "好恶心这男的"
+  },
+  {
+    "Unnamed: 0": 4236,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "太坏了,男人"
+  },
+  {
+    "Unnamed: 0": 2624,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "男男好恶心"
+  },
+  {
+    "Unnamed: 0": 2229,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "那个贱男人又跑了？"
+  },
+  {
+    "Unnamed: 0": 4036,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "都有媚外的女人"
+  },
+  {
+    "Unnamed: 0": 852,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "管他呢，我就歧视黑人"
+  },
+  {
+    "Unnamed: 0": 3579,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "找个女朋友发泄"
+  },
+  {
+    "Unnamed: 0": 1575,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "男人都是骗子！"
+  },
+  {
+    "Unnamed: 0": 5291,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "黄种人最喜欢反抗"
+  },
+  {
+    "Unnamed: 0": 2561,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "浙江捐的，太恶心了"
+  },
+  {
+    "Unnamed: 0": 2281,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "这女人不只婊还自私"
+  },
+  {
+    "Unnamed: 0": 2464,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "这些上海男人真是懦弱"
+  },
+  {
+    "Unnamed: 0": 5306,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "这个男的活该啊。"
+  },
+  {
+    "Unnamed: 0": 5034,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "讨厌这个女人"
+  },
+  {
+    "Unnamed: 0": 3167,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "重男轻女。自尝恶果。"
+  },
+  {
+    "Unnamed: 0": 3434,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "他是歧视女性吧，艹"
+  },
+  {
+    "Unnamed: 0": 4283,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "恶心的台湾人"
+  },
+  {
+    "Unnamed: 0": 3678,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "这不就是抹黑女性？"
+  },
+  {
+    "Unnamed: 0": 1825,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "因为父亲我很讨厌男人"
+  },
+  {
+    "Unnamed: 0": 2993,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "黑新疆，这视频真恶心"
+  },
+  {
+    "Unnamed: 0": 2803,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "男的是废物吗"
+  },
+  {
+    "Unnamed: 0": 568,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "狗男人！！！！"
+  },
+  {
+    "Unnamed: 0": 2942,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "歧视黑人不对吗？"
+  },
+  {
+    "Unnamed: 0": 3710,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "自私的男人，还好离了"
+  },
+  {
+    "Unnamed: 0": 5283,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "歧视黄种人也喜欢？"
+  },
+  {
+    "Unnamed: 0": 2585,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "这种女人就是傻逼"
+  },
+  {
+    "Unnamed: 0": 2892,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "你这是歧视女性吗？"
+  },
+  {
+    "Unnamed: 0": 3566,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "那个东北女人真恶心"
+  },
+  {
+    "Unnamed: 0": 3026,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "那个女人真恶心"
+  },
+  {
+    "Unnamed: 0": 2349,
+    "split": "test",
+    "topic": "race",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "黑人活该被歧视"
+  },
+  {
+    "Unnamed: 0": 701,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "女人都是臭猪"
+  },
+  {
+    "Unnamed: 0": 2805,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "台湾观众也真是恶心"
+  },
+  {
+    "Unnamed: 0": 882,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "龟男是真的恶心"
+  },
+  {
+    "Unnamed: 0": 3502,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "人家哪里直男癌了"
+  },
+  {
+    "Unnamed: 0": 648,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 1,
+    "TEXT": "这个男的挺恶心"
+  },
+  {
+    "Unnamed: 0": 2268,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "难道女人都很能忍？"
+  },
+  {
+    "Unnamed: 0": 1868,
+    "split": "test",
+    "topic": "gender",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "有点直男了"
+  },
+  {
+    "Unnamed: 0": 2171,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "偷井盖的不是福建的？"
+  },
+  {
+    "Unnamed: 0": 525,
+    "split": "test",
+    "topic": "region",
+    "label": 1,
+    "fine-grained-label": 2,
+    "TEXT": "怪不得香港人反送中"
+  },
+  {
+    "Unnamed: 0": 1785,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女奸男不算罪"
+  },
+  {
+    "Unnamed: 0": 4549,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "不是说女的出轨么？"
+  },
+  {
+    "Unnamed: 0": 5428,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我就讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 1533,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女的流氓也很多"
+  },
+  {
+    "Unnamed: 0": 2599,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "农村女扶弟魔不要太多"
+  },
+  {
+    "Unnamed: 0": 2979,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "四川人都酷爱打麻将"
+  },
+  {
+    "Unnamed: 0": 4980,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人真是心狠！"
+  },
+  {
+    "Unnamed: 0": 1557,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人看了想打人"
+  },
+  {
+    "Unnamed: 0": 1400,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "什么屌人啊这个男的"
+  },
+  {
+    "Unnamed: 0": 6805,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视亚裔？"
+  },
+  {
+    "Unnamed: 0": 6310,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "谁歧视黑人了"
+  },
+  {
+    "Unnamed: 0": 6420,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "十分讨厌黑人。"
+  },
+  {
+    "Unnamed: 0": 5860,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人传播艾滋最厉害啊"
+  },
+  {
+    "Unnamed: 0": 3061,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "新疆多小偷。"
+  },
+  {
+    "Unnamed: 0": 167,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "最受歧视的是男性"
+  },
+  {
+    "Unnamed: 0": 824,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海听说更恶心"
+  },
+  {
+    "Unnamed: 0": 3046,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人一言不合就开打"
+  },
+  {
+    "Unnamed: 0": 6505,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人自己都歧视亚裔"
+  },
+  {
+    "Unnamed: 0": 3474,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "白人也能骂黑人。。。"
+  },
+  {
+    "Unnamed: 0": 1361,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "大鸟？被男人侮辱了？"
+  },
+  {
+    "Unnamed: 0": 1473,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那女性判什么刑？"
+  },
+  {
+    "Unnamed: 0": 3111,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你北方人还怕冷啊"
+  },
+  {
+    "Unnamed: 0": 8320,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人就歧视了吧"
+  },
+  {
+    "Unnamed: 0": 1880,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "新疆民风果然厉害"
+  },
+  {
+    "Unnamed: 0": 4253,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女:又来个没死过的"
+  },
+  {
+    "Unnamed: 0": 3071,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "印度人真恶心"
+  },
+  {
+    "Unnamed: 0": 3941,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "日本也超级恶心🤢"
+  },
+  {
+    "Unnamed: 0": 1396,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男人死了活该吧"
+  },
+  {
+    "Unnamed: 0": 6403,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人"
+  },
+  {
+    "Unnamed: 0": 1450,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的主要是卖腐啊"
+  },
+  {
+    "Unnamed: 0": 1224,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女人恶心"
+  },
+  {
+    "Unnamed: 0": 3397,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "那个东北男人真恶心"
+  },
+  {
+    "Unnamed: 0": 415,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "真是侮辱了山东男人"
+  },
+  {
+    "Unnamed: 0": 6978,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "印度人都是垃圾"
+  },
+  {
+    "Unnamed: 0": 1094,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "一个恶心的女权男"
+  },
+  {
+    "Unnamed: 0": 2520,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你个女生气啥气"
+  },
+  {
+    "Unnamed: 0": 5698,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "实不相瞒，我歧视黑人"
+  },
+  {
+    "Unnamed: 0": 6340,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "不能歧视黑人！！！"
+  },
+  {
+    "Unnamed: 0": 1561,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男医生。。这么恐怖吗"
+  },
+  {
+    "Unnamed: 0": 471,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "家暴男？？"
+  },
+  {
+    "Unnamed: 0": 7694,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人就是应该被歧视"
+  },
+  {
+    "Unnamed: 0": 156,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "那个东北女人真恶心"
+  },
+  {
+    "Unnamed: 0": 1422,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那个男的也是渣。"
+  },
+  {
+    "Unnamed: 0": 1274,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那个男生恶心透了"
+  },
+  {
+    "Unnamed: 0": 1787,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这样的女人让我恶心。"
+  },
+  {
+    "Unnamed: 0": 5707,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人歧视肯定有"
+  },
+  {
+    "Unnamed: 0": 2095,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "丢河南人的人"
+  },
+  {
+    "Unnamed: 0": 1718,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "从来都讨厌河南人"
+  },
+  {
+    "Unnamed: 0": 2062,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人偷你家井盖了？"
+  },
+  {
+    "Unnamed: 0": 1219,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这样的女人真恶心"
+  },
+  {
+    "Unnamed: 0": 1386,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女人真作孽。"
+  },
+  {
+    "Unnamed: 0": 2975,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "听口音感觉是个黑人"
+  },
+  {
+    "Unnamed: 0": 1866,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人看了想打人"
+  },
+  {
+    "Unnamed: 0": 2581,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "感觉就很恶心 台湾人"
+  },
+  {
+    "Unnamed: 0": 900,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人，骗子到处都是"
+  },
+  {
+    "Unnamed: 0": 1581,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "还是河北恶心…"
+  },
+  {
+    "Unnamed: 0": 1430,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女的？吵架这么厉害！"
+  },
+  {
+    "Unnamed: 0": 3152,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海人为何那么计较"
+  },
+  {
+    "Unnamed: 0": 1237,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "奇葩的女人，让人恶心"
+  },
+  {
+    "Unnamed: 0": 8491,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "你歧视黑人吗？"
+  },
+  {
+    "Unnamed: 0": 1411,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女性活该？"
+  },
+  {
+    "Unnamed: 0": 7430,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "怎么又是黑人犯罪"
+  },
+  {
+    "Unnamed: 0": 1272,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "居然有这种垃圾男人。"
+  },
+  {
+    "Unnamed: 0": 4093,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人还看不起黄种人呢"
+  },
+  {
+    "Unnamed: 0": 2829,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "怕是地域黑排东北吧"
+  },
+  {
+    "Unnamed: 0": 74,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "现在感觉台湾够恶心"
+  },
+  {
+    "Unnamed: 0": 2920,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "素质教育在山东"
+  },
+  {
+    "Unnamed: 0": 40,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "垃圾女人，曝光"
+  },
+  {
+    "Unnamed: 0": 1216,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的女人"
+  },
+  {
+    "Unnamed: 0": 1558,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那么大部分男的都自私"
+  },
+  {
+    "Unnamed: 0": 1724,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人偷井盖？"
+  },
+  {
+    "Unnamed: 0": 255,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "女拳真的是歧视男性吗"
+  },
+  {
+    "Unnamed: 0": 1244,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "听说台湾很落后？"
+  },
+  {
+    "Unnamed: 0": 1508,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女..女流氓？"
+  },
+  {
+    "Unnamed: 0": 5489,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "一直很歧视黑人！"
+  },
+  {
+    "Unnamed: 0": 1393,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男人，实在可恶"
+  },
+  {
+    "Unnamed: 0": 2467,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "我再也不相信女人了"
+  },
+  {
+    "Unnamed: 0": 2021,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这些男人真恶心"
+  },
+  {
+    "Unnamed: 0": 1976,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾腔听着真恶心"
+  },
+  {
+    "Unnamed: 0": 4342,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "韩国 狗恶心人"
+  },
+  {
+    "Unnamed: 0": 5362,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "p，中国不也歧视黑人"
+  },
+  {
+    "Unnamed: 0": 3198,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "韩国人最虚伪了"
+  },
+  {
+    "Unnamed: 0": 2176,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人很下贱。"
+  },
+  {
+    "Unnamed: 0": 417,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "山东人看了想打人"
+  },
+  {
+    "Unnamed: 0": 2817,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "江西出了名的重男轻女"
+  },
+  {
+    "Unnamed: 0": 1708,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人的嘴，骗人的鬼"
+  },
+  {
+    "Unnamed: 0": 1328,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "真就全世界压迫女性"
+  },
+  {
+    "Unnamed: 0": 1712,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的男的"
+  },
+  {
+    "Unnamed: 0": 2066,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "又歧视河南人？"
+  },
+  {
+    "Unnamed: 0": 2989,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "荷兰：没几只好鸟"
+  },
+  {
+    "Unnamed: 0": 6688,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人吧"
+  },
+  {
+    "Unnamed: 0": 7893,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "就是歧视黑人"
+  },
+  {
+    "Unnamed: 0": 8226,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "就是歧视黑人能咋"
+  },
+  {
+    "Unnamed: 0": 2044,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人偷井盖"
+  },
+  {
+    "Unnamed: 0": 5891,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 1488,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "不要歧视已育女性"
+  },
+  {
+    "Unnamed: 0": 1226,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "超级恶心的男方"
+  },
+  {
+    "Unnamed: 0": 1409,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的太坏了"
+  },
+  {
+    "Unnamed: 0": 6007,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "所以说昆仑奴是黑人"
+  },
+  {
+    "Unnamed: 0": 1395,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女的真是活该。"
+  },
+  {
+    "Unnamed: 0": 8953,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人真的丑，还恶心"
+  },
+  {
+    "Unnamed: 0": 1680,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "被拳王殴打的男人"
+  },
+  {
+    "Unnamed: 0": 380,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "这个算是女权癌吧？"
+  },
+  {
+    "Unnamed: 0": 1415,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾人也这样骂人么？"
+  },
+  {
+    "Unnamed: 0": 1390,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人就是犯贱"
+  },
+  {
+    "Unnamed: 0": 2592,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "沉迷游戏的男人最恶心"
+  },
+  {
+    "Unnamed: 0": 2570,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "这么黑东北，好么"
+  },
+  {
+    "Unnamed: 0": 3143,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "一说到河南人就偷井盖"
+  },
+  {
+    "Unnamed: 0": 6369,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "你是不是歧视黑人"
+  },
+  {
+    "Unnamed: 0": 2112,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "关键还是直男=="
+  },
+  {
+    "Unnamed: 0": 87,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾人普遍虚伪矫情"
+  },
+  {
+    "Unnamed: 0": 640,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你是不是直男癌犯了"
+  },
+  {
+    "Unnamed: 0": 3056,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "湖北人九头鸟。"
+  },
+  {
+    "Unnamed: 0": 1763,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "一看你就仇视北方男的"
+  },
+  {
+    "Unnamed: 0": 5446,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 1178,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "最歧视女人的是女人！"
+  },
+  {
+    "Unnamed: 0": 7028,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "极其讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 3054,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人偷井盖。"
+  },
+  {
+    "Unnamed: 0": 3088,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人都很有钱"
+  },
+  {
+    "Unnamed: 0": 8978,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人？活该被歧视"
+  },
+  {
+    "Unnamed: 0": 8116,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人歧视黄种人？？"
+  },
+  {
+    "Unnamed: 0": 3089,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人都开莆田系医院"
+  },
+  {
+    "Unnamed: 0": 6145,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "亚裔同样歧视黑人"
+  },
+  {
+    "Unnamed: 0": 1312,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个男的真恶心。"
+  },
+  {
+    "Unnamed: 0": 1511,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "打女人真的是太过分了"
+  },
+  {
+    "Unnamed: 0": 1916,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "请不要侮辱直男"
+  },
+  {
+    "Unnamed: 0": 2863,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "苏南小气鬼？"
+  },
+  {
+    "Unnamed: 0": 7320,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "难怪昆仑奴是黑人"
+  },
+  {
+    "Unnamed: 0": 3796,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人最看不起黄种人"
+  },
+  {
+    "Unnamed: 0": 494,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "没男票的也很尴尬"
+  },
+  {
+    "Unnamed: 0": 830,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那男的真恶心。"
+  },
+  {
+    "Unnamed: 0": 2289,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "垃圾男人[生气]"
+  },
+  {
+    "Unnamed: 0": 2933,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "中国人看了想打人"
+  },
+  {
+    "Unnamed: 0": 7434,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "最他妈讨厌黑人了"
+  },
+  {
+    "Unnamed: 0": 4370,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个算强奸妇女罪"
+  },
+  {
+    "Unnamed: 0": 1481,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你一定是个自私的女人"
+  },
+  {
+    "Unnamed: 0": 5370,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我永远讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 1398,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女生太歹毒了"
+  },
+  {
+    "Unnamed: 0": 1539,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女体乘是要吃人？？？"
+  },
+  {
+    "Unnamed: 0": 1731,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "重男轻女，毁人一世。"
+  },
+  {
+    "Unnamed: 0": 7673,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人真的大多数很恶心"
+  },
+  {
+    "Unnamed: 0": 5663,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "跪舔黑人，歧视亚裔。"
+  },
+  {
+    "Unnamed: 0": 1238,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男的真的很恶心了"
+  },
+  {
+    "Unnamed: 0": 1413,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那是专骂女人的"
+  },
+  {
+    "Unnamed: 0": 4744,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "我不是直男我讨厌直女"
+  },
+  {
+    "Unnamed: 0": 2651,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "性别歧视，没看到男装"
+  },
+  {
+    "Unnamed: 0": 7488,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人有什么问题？"
+  },
+  {
+    "Unnamed: 0": 1199,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "但是上海是很落后啊"
+  },
+  {
+    "Unnamed: 0": 2965,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "听东北话就恶心反胃"
+  },
+  {
+    "Unnamed: 0": 4910,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女生容易被骗。"
+  },
+  {
+    "Unnamed: 0": 6556,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "偷东西的主要是黑人吧"
+  },
+  {
+    "Unnamed: 0": 1179,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "日本女人最难看恐怖"
+  },
+  {
+    "Unnamed: 0": 1894,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "用生命来黑北方男人"
+  },
+  {
+    "Unnamed: 0": 3092,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人坏事做尽"
+  },
+  {
+    "Unnamed: 0": 2784,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海小偷是多。"
+  },
+  {
+    "Unnamed: 0": 4766,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "一直很讨厌黑人和白人"
+  },
+  {
+    "Unnamed: 0": 1653,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男票说不定在视奸你。"
+  },
+  {
+    "Unnamed: 0": 1977,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "鄙视任何重男轻女的人"
+  },
+  {
+    "Unnamed: 0": 1690,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那个女的不是被强奸"
+  },
+  {
+    "Unnamed: 0": 6070,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人行为（阴险）"
+  },
+  {
+    "Unnamed: 0": 1227,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那男人真恶心"
+  },
+  {
+    "Unnamed: 0": 2902,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "印度人大多很会骗人"
+  },
+  {
+    "Unnamed: 0": 1562,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "做男人不做舔狗"
+  },
+  {
+    "Unnamed: 0": 10520,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "矮黑人"
+  },
+  {
+    "Unnamed: 0": 1587,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那男的好恶心啊"
+  },
+  {
+    "Unnamed: 0": 2996,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "江苏都是大学霸"
+  },
+  {
+    "Unnamed: 0": 6841,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我就歧视黑人"
+  },
+  {
+    "Unnamed: 0": 2601,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "是男男吗？觉得恶心耶"
+  },
+  {
+    "Unnamed: 0": 2187,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男的恶心死人了"
+  },
+  {
+    "Unnamed: 0": 3851,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "恶心的印度人"
+  },
+  {
+    "Unnamed: 0": 1383,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的被家暴咋整？"
+  },
+  {
+    "Unnamed: 0": 1595,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男的是不是吸毒了"
+  },
+  {
+    "Unnamed: 0": 1488,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "把男生轮奸会判刑么"
+  },
+  {
+    "Unnamed: 0": 1894,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北为什么落后"
+  },
+  {
+    "Unnamed: 0": 1728,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "感觉这男的好恶心"
+  },
+  {
+    "Unnamed: 0": 1240,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的闺蜜和男人"
+  },
+  {
+    "Unnamed: 0": 1242,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的男人，心疼你"
+  },
+  {
+    "Unnamed: 0": 1447,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "强奸男性呢?"
+  },
+  {
+    "Unnamed: 0": 2502,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女拳们来打你了"
+  },
+  {
+    "Unnamed: 0": 1454,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "垃圾河南人，我是说H"
+  },
+  {
+    "Unnamed: 0": 4701,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "遇到坏男人"
+  },
+  {
+    "Unnamed: 0": 4109,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "不仅仅是直男癌吧。"
+  },
+  {
+    "Unnamed: 0": 1388,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女人太恶毒了"
+  },
+  {
+    "Unnamed: 0": 2593,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "特别瞧不起台湾人"
+  },
+  {
+    "Unnamed: 0": 1421,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男的不是渣男？"
+  },
+  {
+    "Unnamed: 0": 3917,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "她骗人了，她爸印度人"
+  },
+  {
+    "Unnamed: 0": 8304,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人，好恶心→_→"
+  },
+  {
+    "Unnamed: 0": 10629,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "什么？你敢歧视黑人？"
+  },
+  {
+    "Unnamed: 0": 1680,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人都只会打人吗？"
+  },
+  {
+    "Unnamed: 0": 3136,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人高考试卷容易。"
+  },
+  {
+    "Unnamed: 0": 2584,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "重庆人真的只想骂人。"
+  },
+  {
+    "Unnamed: 0": 1131,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女权为什么要养男人？"
+  },
+  {
+    "Unnamed: 0": 7217,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "真不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 4078,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人被家暴证据也难找"
+  },
+  {
+    "Unnamed: 0": 7054,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黄种人吧大概？"
+  },
+  {
+    "Unnamed: 0": 1700,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河北是落后"
+  },
+  {
+    "Unnamed: 0": 997,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你们上海真落后。。。"
+  },
+  {
+    "Unnamed: 0": 6919,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视亚裔也算歧视？"
+  },
+  {
+    "Unnamed: 0": 2178,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "操蛋的河南人。"
+  },
+  {
+    "Unnamed: 0": 3014,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "“广州人都长得丑”"
+  },
+  {
+    "Unnamed: 0": 93,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "那上海是够小气的了"
+  },
+  {
+    "Unnamed: 0": 2512,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "井盖上的河南？"
+  },
+  {
+    "Unnamed: 0": 3142,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人人均2套房子。"
+  },
+  {
+    "Unnamed: 0": 1394,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人都是骗子！"
+  },
+  {
+    "Unnamed: 0": 4489,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女生也会欺负男生好吗"
+  },
+  {
+    "Unnamed: 0": 2589,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海人看不起外地人"
+  },
+  {
+    "Unnamed: 0": 2258,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人打男人算家暴吗"
+  },
+  {
+    "Unnamed: 0": 2034,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男方毒打她不是犯罪吗"
+  },
+  {
+    "Unnamed: 0": 2001,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女的都不好意思来摸"
+  },
+  {
+    "Unnamed: 0": 508,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东比较歧视黑人"
+  },
+  {
+    "Unnamed: 0": 5552,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我歧视黑人"
+  },
+  {
+    "Unnamed: 0": 936,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "嘻嘻嘻明明就是弯男"
+  },
+  {
+    "Unnamed: 0": 1877,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人怕软？"
+  },
+  {
+    "Unnamed: 0": 5014,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "就是讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 2601,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "全国为啥歧视河南呀？"
+  },
+  {
+    "Unnamed: 0": 1251,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女的有点恶心哦"
+  },
+  {
+    "Unnamed: 0": 3057,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "浙江人有钱。"
+  },
+  {
+    "Unnamed: 0": 6307,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "真的非常讨厌黑人…"
+  },
+  {
+    "Unnamed: 0": 6050,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "亚裔被歧视啊……"
+  },
+  {
+    "Unnamed: 0": 5677,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "最讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 7190,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "不是黑人高贵?"
+  },
+  {
+    "Unnamed: 0": 1281,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男版咪蒙只会更加恶心"
+  },
+  {
+    "Unnamed: 0": 4959,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我也讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 4979,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "也许这就是男人的坏吧"
+  },
+  {
+    "Unnamed: 0": 4891,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我就不歧视黑人"
+  },
+  {
+    "Unnamed: 0": 1221,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女人真恶心"
+  },
+  {
+    "Unnamed: 0": 45,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女人要，别的垃圾不要"
+  },
+  {
+    "Unnamed: 0": 1392,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人都是臭骗子"
+  },
+  {
+    "Unnamed: 0": 2984,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "香港：土豪遍地"
+  },
+  {
+    "Unnamed: 0": 1337,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男人好恶心"
+  },
+  {
+    "Unnamed: 0": 7006,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我歧视黑人，有问题吗"
+  },
+  {
+    "Unnamed: 0": 1389,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "什么狗女人"
+  },
+  {
+    "Unnamed: 0": 1233,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女人好恶心啊"
+  },
+  {
+    "Unnamed: 0": 10884,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "英语，黑鬼"
+  },
+  {
+    "Unnamed: 0": 3065,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "北京人排外。"
+  },
+  {
+    "Unnamed: 0": 2683,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "能不能不黑东北人？"
+  },
+  {
+    "Unnamed: 0": 8112,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "宁这是在歧视黑人？"
+  },
+  {
+    "Unnamed: 0": 734,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "干嘛要黑东北人"
+  },
+  {
+    "Unnamed: 0": 1241,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "哇，这个男的好恶心"
+  },
+  {
+    "Unnamed: 0": 6739,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我真不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 5302,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "有的，我就歧视黑人。"
+  },
+  {
+    "Unnamed: 0": 1099,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "给我恶心坏了，那个人"
+  },
+  {
+    "Unnamed: 0": 2291,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "别侮辱直男这个词"
+  },
+  {
+    "Unnamed: 0": 891,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的？猥亵罪？"
+  },
+  {
+    "Unnamed: 0": 1229,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个男的真的恶心"
+  },
+  {
+    "Unnamed: 0": 3047,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人的酒量很好"
+  },
+  {
+    "Unnamed: 0": 2742,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那就没人提歧视男性吗"
+  },
+  {
+    "Unnamed: 0": 4841,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人广州的"
+  },
+  {
+    "Unnamed: 0": 1757,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这女人有点恐怖。"
+  },
+  {
+    "Unnamed: 0": 1287,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "肌肉男哪里恶心了"
+  },
+  {
+    "Unnamed: 0": 6823,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾人嘛，阴险狡诈"
+  },
+  {
+    "Unnamed: 0": 2985,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "胡建：天天刮台风"
+  },
+  {
+    "Unnamed: 0": 5854,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "讨厌黑人。"
+  },
+  {
+    "Unnamed: 0": 1426,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "打女人是最没本事的"
+  },
+  {
+    "Unnamed: 0": 8051,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "就是歧视黑人怎么了"
+  },
+  {
+    "Unnamed: 0": 3039,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "山东。挖掘机…？？"
+  },
+  {
+    "Unnamed: 0": 3090,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人都卖假鞋"
+  },
+  {
+    "Unnamed: 0": 4408,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "举报了，歧视女性"
+  },
+  {
+    "Unnamed: 0": 3443,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "恶心的广东人！"
+  },
+  {
+    "Unnamed: 0": 2270,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你这是歧视女性"
+  },
+  {
+    "Unnamed: 0": 1263,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男方真恶心！！！"
+  },
+  {
+    "Unnamed: 0": 2988,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海人都矫情"
+  },
+  {
+    "Unnamed: 0": 1407,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "放男的就更惨了"
+  },
+  {
+    "Unnamed: 0": 253,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "只强奸男的？"
+  },
+  {
+    "Unnamed: 0": 5452,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "有没有告他们歧视亚裔"
+  },
+  {
+    "Unnamed: 0": 2943,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东人都很有钱！"
+  },
+  {
+    "Unnamed: 0": 691,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人确实素质差"
+  },
+  {
+    "Unnamed: 0": 2595,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "香港脚歧视内地所有人"
+  },
+  {
+    "Unnamed: 0": 6684,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人没毛病"
+  },
+  {
+    "Unnamed: 0": 322,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南 还好没地域黑"
+  },
+  {
+    "Unnamed: 0": 1522,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "对,愚蠢的中国女人"
+  },
+  {
+    "Unnamed: 0": 4667,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人怎么都这么贱"
+  },
+  {
+    "Unnamed: 0": 2087,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莫名黑东北？"
+  },
+  {
+    "Unnamed: 0": 2498,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "感觉这女的最傻叉"
+  },
+  {
+    "Unnamed: 0": 1270,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "打女人的男人就是垃圾"
+  },
+  {
+    "Unnamed: 0": 7798,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "最歧视亚裔的就是老黑"
+  },
+  {
+    "Unnamed: 0": 5313,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "和黑人打架…"
+  },
+  {
+    "Unnamed: 0": 2151,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的恶心死了"
+  },
+  {
+    "Unnamed: 0": 1412,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女性对女性的恶意真大"
+  },
+  {
+    "Unnamed: 0": 5737,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我很不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 3055,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北，湖南做鸡的。"
+  },
+  {
+    "Unnamed: 0": 5659,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我讨厌黑人，"
+  },
+  {
+    "Unnamed: 0": 3148,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "苏北，穷"
+  },
+  {
+    "Unnamed: 0": 2791,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "我是东北金链子黑社会"
+  },
+  {
+    "Unnamed: 0": 2810,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上来就黑东北，举报了"
+  },
+  {
+    "Unnamed: 0": 4394,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "所以有些男人恶心啊"
+  },
+  {
+    "Unnamed: 0": 1798,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男性也是被男权？"
+  },
+  {
+    "Unnamed: 0": 8505,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "骗人不成就转黑人了"
+  },
+  {
+    "Unnamed: 0": 3068,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "白人极其虚伪"
+  },
+  {
+    "Unnamed: 0": 2102,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "很多女人都是很自私的"
+  },
+  {
+    "Unnamed: 0": 5784,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "为嘛都不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 2264,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "什么垃圾女人，远离"
+  },
+  {
+    "Unnamed: 0": 2727,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "对上海人没好感"
+  },
+  {
+    "Unnamed: 0": 3609,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人看不起中国人"
+  },
+  {
+    "Unnamed: 0": 993,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "还能扯到女性歧视上？"
+  },
+  {
+    "Unnamed: 0": 3413,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "江苏这么落后？"
+  },
+  {
+    "Unnamed: 0": 1428,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "实在猛。比男人都狠。"
+  },
+  {
+    "Unnamed: 0": 1068,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "新疆人看了想打人"
+  },
+  {
+    "Unnamed: 0": 1979,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "为什么都要黑一黑东北"
+  },
+  {
+    "Unnamed: 0": 7212,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "这两个图都歧视黑人"
+  },
+  {
+    "Unnamed: 0": 4523,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "太恶心了这男的"
+  },
+  {
+    "Unnamed: 0": 1776,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "但是也祸害了男性"
+  },
+  {
+    "Unnamed: 0": 1660,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人不包二奶？"
+  },
+  {
+    "Unnamed: 0": 3942,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "都是女性，打扰了。"
+  },
+  {
+    "Unnamed: 0": 4508,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "女性只能强奸女性"
+  },
+  {
+    "Unnamed: 0": 1498,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "就是没男人"
+  },
+  {
+    "Unnamed: 0": 1225,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男人真垃圾"
+  },
+  {
+    "Unnamed: 0": 2146,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "为什么非要黑东北"
+  },
+  {
+    "Unnamed: 0": 2592,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾人真的很恶心。。"
+  },
+  {
+    "Unnamed: 0": 4782,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人劣等名族。"
+  },
+  {
+    "Unnamed: 0": 6389,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "昆仑奴是黑人"
+  },
+  {
+    "Unnamed: 0": 6102,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黄种人吗[捂嘴]"
+  },
+  {
+    "Unnamed: 0": 7611,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "为什么不歧视黑人？"
+  },
+  {
+    "Unnamed: 0": 935,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "色女！哈哈！"
+  },
+  {
+    "Unnamed: 0": 8354,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人太恶心了，下等"
+  },
+  {
+    "Unnamed: 0": 923,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男人真是有够恶心"
+  },
+  {
+    "Unnamed: 0": 4935,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "不喜欢男生鞋子穿假货"
+  },
+  {
+    "Unnamed: 0": 1956,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "新疆人就是恐怖分子？"
+  },
+  {
+    "Unnamed: 0": 854,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "这是歧视福建人吗"
+  },
+  {
+    "Unnamed: 0": 2649,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "太恶心了那个男的"
+  },
+  {
+    "Unnamed: 0": 7551,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "最歧视亚裔的就是左逼"
+  },
+  {
+    "Unnamed: 0": 1449,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "一个男的戾气这么重？"
+  },
+  {
+    "Unnamed: 0": 514,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾媒体真恶心"
+  },
+  {
+    "Unnamed: 0": 2872,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "你这是歧视男性"
+  },
+  {
+    "Unnamed: 0": 1232,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男人都那么恶心了吗"
+  },
+  {
+    "Unnamed: 0": 3012,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "“河南人偷井盖”"
+  },
+  {
+    "Unnamed: 0": 554,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人就是素质差"
+  },
+  {
+    "Unnamed: 0": 1097,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "重男轻女的恶果，哎"
+  },
+  {
+    "Unnamed: 0": 1218,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "恶心的女人"
+  },
+  {
+    "Unnamed: 0": 1581,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "也有女的骗男的呀"
+  },
+  {
+    "Unnamed: 0": 5216,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "基因劣等，靠黑人"
+  },
+  {
+    "Unnamed: 0": 4895,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "就是不喜欢黑人"
+  },
+  {
+    "Unnamed: 0": 3074,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你四川（重庆）的吧。"
+  },
+  {
+    "Unnamed: 0": 1391,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个男人真是坏透了"
+  },
+  {
+    "Unnamed: 0": 2124,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "歧视广东人"
+  },
+  {
+    "Unnamed: 0": 7841,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我歧视黑人，怎么啦？"
+  },
+  {
+    "Unnamed: 0": 1387,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女人就是畜牲"
+  },
+  {
+    "Unnamed: 0": 3403,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南全省都偷井盖？"
+  },
+  {
+    "Unnamed: 0": 1234,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男的恶心。"
+  },
+  {
+    "Unnamed: 0": 775,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "少女湿身惨案"
+  },
+  {
+    "Unnamed: 0": 1898,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你怕不是看不起新疆人"
+  },
+  {
+    "Unnamed: 0": 1243,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "那个男生好恶心"
+  },
+  {
+    "Unnamed: 0": 1250,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个男的太恶心咯！"
+  },
+  {
+    "Unnamed: 0": 3004,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "不要瞧不起黄种人好吧"
+  },
+  {
+    "Unnamed: 0": 1432,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男的，挺狠的。"
+  },
+  {
+    "Unnamed: 0": 2473,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海人看不起外地人呢"
+  },
+  {
+    "Unnamed: 0": 5693,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "一样的,我也歧视黑人"
+  },
+  {
+    "Unnamed: 0": 4107,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这个女的欺负人"
+  },
+  {
+    "Unnamed: 0": 306,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的女人呢！"
+  },
+  {
+    "Unnamed: 0": 2718,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "牛逼垃圾东西打女人"
+  },
+  {
+    "Unnamed: 0": 6118,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人受教育率低"
+  },
+  {
+    "Unnamed: 0": 3071,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "福建，假鞋。"
+  },
+  {
+    "Unnamed: 0": 982,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人贩毒真的恶心"
+  },
+  {
+    "Unnamed: 0": 3034,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "云南是不是超级穷"
+  },
+  {
+    "Unnamed: 0": 3290,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "欧美都严重歧视华人"
+  },
+  {
+    "Unnamed: 0": 395,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这中男人就是垃圾"
+  },
+  {
+    "Unnamed: 0": 4926,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我就是讨厌黑人"
+  },
+  {
+    "Unnamed: 0": 1662,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "强奸算男人吗,？"
+  },
+  {
+    "Unnamed: 0": 1236,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男的真的好恶心。"
+  },
+  {
+    "Unnamed: 0": 4917,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "答主：我不喜欢女的。"
+  },
+  {
+    "Unnamed: 0": 3004,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北的学校就很水"
+  },
+  {
+    "Unnamed: 0": 4490,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这怎么就直男癌了？？"
+  },
+  {
+    "Unnamed: 0": 1228,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的男人啊"
+  },
+  {
+    "Unnamed: 0": 6721,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南人为防歧视会说"
+  },
+  {
+    "Unnamed: 0": 3073,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "云南，贩毒。"
+  },
+  {
+    "Unnamed: 0": 6975,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人其实最歧视亚裔"
+  },
+  {
+    "Unnamed: 0": 1235,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "河南，确实没好感"
+  },
+  {
+    "Unnamed: 0": 2986,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "浙江都是小商人"
+  },
+  {
+    "Unnamed: 0": 2966,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "请指出哪里歧视女性了"
+  },
+  {
+    "Unnamed: 0": 1632,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "所有男人都是傻逼？"
+  },
+  {
+    "Unnamed: 0": 836,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "浙江卫视越来越恶心了"
+  },
+  {
+    "Unnamed: 0": 1467,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "男的他打的更狠ok？"
+  },
+  {
+    "Unnamed: 0": 5588,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "我讨厌黑人，就是坏"
+  },
+  {
+    "Unnamed: 0": 5684,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "美国对亚裔歧视严重。"
+  },
+  {
+    "Unnamed: 0": 379,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "侮辱女性，举报了"
+  },
+  {
+    "Unnamed: 0": 1689,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "我们这骗子都是河南人"
+  },
+  {
+    "Unnamed: 0": 2148,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "你祖宗可能就在河南"
+  },
+  {
+    "Unnamed: 0": 3072,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "云南，丽江艳遇。"
+  },
+  {
+    "Unnamed: 0": 1315,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "好恶心的男人。还吼你"
+  },
+  {
+    "Unnamed: 0": 7008,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "歧视黑人叫政治不正确"
+  },
+  {
+    "Unnamed: 0": 2944,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "广东人什么都吃！"
+  },
+  {
+    "Unnamed: 0": 6672,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "讨厌黑人[不抬杠]"
+  },
+  {
+    "Unnamed: 0": 2338,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "没出轨的男人怎么办？"
+  },
+  {
+    "Unnamed: 0": 4747,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人好吃懒做是真的"
+  },
+  {
+    "Unnamed: 0": 1594,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "歧视大胸女性，举报了"
+  },
+  {
+    "Unnamed: 0": 1285,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这文章真是直男癌"
+  },
+  {
+    "Unnamed: 0": 1217,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "真恶心这种男人"
+  },
+  {
+    "Unnamed: 0": 287,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "男性歧视男性更凶"
+  },
+  {
+    "Unnamed: 0": 5578,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "感觉你也在歧视白人"
+  },
+  {
+    "Unnamed: 0": 6401,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "你在歧视黑人"
+  },
+  {
+    "Unnamed: 0": 442,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这男的也太恶心了"
+  },
+  {
+    "Unnamed: 0": 1102,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "傻逼矮女人"
+  },
+  {
+    "Unnamed: 0": 3091,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "莆田人素质极差"
+  },
+  {
+    "Unnamed: 0": 1366,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "漂亮女人都是坏人"
+  },
+  {
+    "Unnamed: 0": 2076,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "为什么喊河南人井盖？"
+  },
+  {
+    "Unnamed: 0": 2892,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "我们只歧视新上海人"
+  },
+  {
+    "Unnamed: 0": 1318,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东北人最好欺负了"
+  },
+  {
+    "Unnamed: 0": 3456,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "四川骂人就骂日本人"
+  },
+  {
+    "Unnamed: 0": 3125,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这种男的好恶心"
+  },
+  {
+    "Unnamed: 0": 4440,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "全贱男，，，，"
+  },
+  {
+    "Unnamed: 0": 1531,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "是这男的太没素质了"
+  },
+  {
+    "Unnamed: 0": 272,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "我也歧视北京人"
+  },
+  {
+    "Unnamed: 0": 1170,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "这就是对男性的歧视。"
+  },
+  {
+    "Unnamed: 0": 1699,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "上海猫还歧视外地猫呢"
+  },
+  {
+    "Unnamed: 0": 1410,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "呵，女人都是骗子"
+  },
+  {
+    "Unnamed: 0": 4120,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "例如：小四强奸某男"
+  },
+  {
+    "Unnamed: 0": 2188,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "直男癌又歧视女性！"
+  },
+  {
+    "Unnamed: 0": 6844,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "四川人要打人的哈"
+  },
+  {
+    "Unnamed: 0": 7709,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人本就最歧视黄种人"
+  },
+  {
+    "Unnamed: 0": 484,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "处男杀手?"
+  },
+  {
+    "Unnamed: 0": 1405,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "旁边那个女的，好可恶"
+  },
+  {
+    "Unnamed: 0": 743,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "干嘛黑东北人？"
+  },
+  {
+    "Unnamed: 0": 3058,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "东莞多嫖客。"
+  },
+  {
+    "Unnamed: 0": 3358,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "ID河南佬偷井盖"
+  },
+  {
+    "Unnamed: 0": 2987,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "台湾都是有钱的小商人"
+  },
+  {
+    "Unnamed: 0": 574,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "香港还能买到黑鬼？"
+  },
+  {
+    "Unnamed: 0": 2823,
+    "split": "train",
+    "topic": "race",
+    "label": 1,
+    "TEXT": "黑人智商低没得辩"
+  },
+  {
+    "Unnamed: 0": 1734,
+    "split": "train",
+    "topic": "gender",
+    "label": 1,
+    "TEXT": "太小气了这女人"
+  },
+  {
+    "Unnamed: 0": 2046,
+    "split": "train",
+    "topic": "region",
+    "label": 1,
+    "TEXT": "踩井盖防止河南人偷？"
+  }
+]
